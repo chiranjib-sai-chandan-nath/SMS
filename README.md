@@ -195,10 +195,10 @@
 <br/>
 
 <!-- GitHub repo stats -->
-[![Stars](https://img.shields.io/github/stars/ChiranjibSaiChandanNath/CMS?style=social)](https://github.com/ChiranjibSaiChandanNath/CMS/stargazers)
-[![Forks](https://img.shields.io/github/forks/ChiranjibSaiChandanNath/CMS?style=social)](https://github.com/ChiranjibSaiChandanNath/CMS/network/members)
-[![Issues](https://img.shields.io/github/issues/ChiranjibSaiChandanNath/CMS?color=ff6d00&style=flat-square)](https://github.com/ChiranjibSaiChandanNath/CMS/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/ChiranjibSaiChandanNath/CMS?color=00e676&style=flat-square)](https://github.com/ChiranjibSaiChandanNath/CMS/commits)
+[![Stars](https://img.shields.io/github/stars/chiranjib-sai-chandan-nath/CMS?style=social)](https://github.com/chiranjib-sai-chandan-nath/CMS/stargazers)
+[![Forks](https://img.shields.io/github/forks/chiranjib-sai-chandan-nath/CMS?style=social)](https://github.com/chiranjib-sai-chandan-nath/CMS/network/members)
+[![Issues](https://img.shields.io/github/issues/chiranjib-sai-chandan-nath/CMS?color=ff6d00&style=flat-square)](https://github.com/chiranjib-sai-chandan-nath/CMS/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/chiranjib-sai-chandan-nath/CMS?color=00e676&style=flat-square)](https://github.com/chiranjib-sai-chandan-nath/CMS/commits)
 
 <br/>
 
@@ -479,7 +479,7 @@ source bin/activate
 ### Step 2 · Clone the Repository
 
 ```bash
-git clone https://github.com/ChiranjibSaiChandanNath/CMS.git
+git clone https://github.com/chiranjib-sai-chandan-nath/CMS.git
 cd CMS
 ```
 
@@ -751,7 +751,7 @@ Profile images used in demo are from [**Unsplash**](https://unsplash.com).
 ## 🙋 Support the Developer
 
 1. ⭐ **Add a Star** to this repository
-2. 🐙 Follow on [**GitHub**](https://github.com/ChiranjibSaiChandanNath)
+2. 🐙 Follow on [**GitHub**](https://github.com/chiranjib-sai-chandan-nath)
 
 ### For Sponsorship or Project Enquiries
 
